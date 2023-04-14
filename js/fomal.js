@@ -3174,9 +3174,9 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://tse3-mm.cn.bing.net/th/id/OIP-C.bLizXAanIFKs9hF679oYcQHaEo?w=297&h=185&c=7&r=0&o=5&pid=1.7);
+    --default-bg: url(https://i0.hdslb.com/bfs/article/8f59a8b0812156fab987ee5e476567ce8b1cbaa6.png@942w_531h_progressive.webp);
     --darkmode-bg:url(https://lskypro.acozycotage.net/Fomalhaut/img/yuanshen1.webp);
-    --mobileday-bg: url(https://lskypro.acozycotage.net/Fomalhaut/img/snow.webp);
+    --mobileday-bg: url(https://img2.huashi6.com/images/resource/global/2022/05/10/181451_69108682528.jpg?imageView2/3/q/90/interlace/1/w/1200/h/1200);
     --mobilenight-bg: url(https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2Fe712e00ce4af9cc0c8acea160063ef0a19780418.jpg&refer=http%3A%2F%2Fi0.hdslb.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1654595964&t=5945d17a7949e0d698a67e473f9351a1);
   }`;
 }
